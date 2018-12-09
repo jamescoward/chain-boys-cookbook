@@ -3,8 +3,7 @@
 This recipe is heavily inspired by this [recipe](https://myfoodstory.com/easy-slow-cooker-dal-makhani-recipe/)
 
 ## Notes
-- I use a mug rather than a cup measure
-- If you don't have a pressure just cooke the beans and lentils another way
+- If you don't have a pressure cooker just cook the beans and lentils another way
 
 ## Ingredients 
 
