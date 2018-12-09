@@ -29,9 +29,9 @@ This recipe is heavily inspired by this [recipe](https://myfoodstory.com/easy-sl
 
 ## Method
 
-1. Cook the lentils and kidney beans in a pressure cooker (around 20 minutes quick release). Mash them a bit once they're cooked
+1. Cook the lentils and kidney beans in a pressure cooker (around 20 minutes on high with a quick release). Mash them a bit once they're cooked
 2. In a dry pan toast all the spices except the Garam Masala for a bit, be careful it doesn't burn though
-3. Add some oil to the spices and then the onions and cook them over a lowish heat until they are soft
+3. Add some oil to the spices, add the garlic and ginger and fry for a bit. Then the onions and cook them over a lowish heat until they are soft
 4. Add the tomatoes and cook then for a bit
 5. Add in the cooked lentils and beans and the butter
 6. Simmer for a couple hours stirring occasionally so it doesn't stick to the bottom of the pan, add some water if it is too thick
