@@ -1,4 +1,4 @@
-#Chain boys cookbook &#35chainboylife
+# Chain boys cookbook #chainboylife
 
 ## Recipes
 
